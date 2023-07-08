@@ -3,8 +3,9 @@
 ### 📊 GitHub Stats:
 <p>
   <a href="https://github.com/xtyuns">
-    <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=xtyuns&show_icons=true&theme=monokai" />
-    <img height=210 align="center" src="https://github-contributor-stats.vercel.app/api?username=xtyuns&combine_all_yearly_contributions=true&limit=5&theme=monokai" />
+    <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=xtyuns&show_icons=true&theme=monokai" />
+    <br/>
+    <img width=500 align="center" src="https://github-contributor-stats.vercel.app/api?username=xtyuns&combine_all_yearly_contributions=true&limit=5&theme=monokai" />
   </a>
 </p>
 
