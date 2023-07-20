@@ -2,7 +2,7 @@
 
 ### 📊 GitHub Stats:
 <p>
-  <a href="https://github.com/xtyuns">
+  <a href="https://github.com/xtyuns?tab=repositories">
     <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=xtyuns&show_icons=true&theme=monokai" />
     <br/>
     <img width=500 align="center" src="https://github-contributor-stats.vercel.app/api?username=xtyuns&combine_all_yearly_contributions=true&limit=5&theme=monokai" />
