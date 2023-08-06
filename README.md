@@ -36,9 +36,11 @@
 graph LR
     Root[Technology]
 
+    JS[JavaScript]
+    Root --> JS
+
     Java[Java/Kotlin]
     Root --> Java
-
         Collection[集合框架]
         Java --> Collection
         Stream[函数式编程]
@@ -49,6 +51,37 @@ graph LR
         Java --> Async
         JVM[JVM]
         Java --> JVM
+
+    DB[Database]
+    Root --> DB
+        DBIndex[索引]
+        DB --> DBIndex
+        Transaction[事务]
+        DB --> Transaction
+
+    WebServer[Web Server]
+    Root --> WebServer
+        Spring[SpringFramework]
+        WebServer --> Spring
+        SpringMVC[SpringMVC]
+        WebServer --> SpringMVC
+        SpringBoot[SpringBoot]
+        WebServer --> SpringBoot
+
+    Cache[Redis Cache]
+    Root --> Cache
+
+    MQ[Message Queue]
+    Root --> MQ
+
+    DS[Distributed System]
+    Root --> DS
+        SOA[SOA]
+        DS --> SOA
+        Microservices[Microservices]
+        DS --> Microservices
+        ServiceMesh[Service Mesh]
+        DS --> ServiceMesh
 ```
 
 ---
