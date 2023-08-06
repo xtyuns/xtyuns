@@ -36,8 +36,8 @@
 graph LR
     Root[Technologies]
 
-    JS[JavaScript]
-    Root --> JS
+    ES[JavaScript/ECMAScript/TypeScript]
+    Root --> ES
 
     Java[Java/Kotlin]
     Root --> Java
