@@ -46,7 +46,7 @@ graph LR
         Stream[函数式编程]
         Java --> Stream
         Concurrent[并发编程]
-        Java --> iesConcurrent
+        Java --> Concurrent
         Async[异步编程]
         Java --> Async
         JVM[JVM]
