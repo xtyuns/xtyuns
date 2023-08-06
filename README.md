@@ -34,7 +34,7 @@
 
 ```mermaid
 graph LR
-    Root[Technology]
+    Root[Technologies]
 
     JS[JavaScript]
     Root --> JS
@@ -46,11 +46,14 @@ graph LR
         Stream[函数式编程]
         Java --> Stream
         Concurrent[并发编程]
-        Java --> Concurrent
+        Java --> iesConcurrent
         Async[异步编程]
         Java --> Async
         JVM[JVM]
         Java --> JVM
+
+    Linux[Linux]
+    Root --> Linux
 
     DB[Database]
     Root --> DB
