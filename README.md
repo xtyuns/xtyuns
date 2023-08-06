@@ -32,5 +32,24 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
+```mermaid
+graph LR
+    Root[Technology]
+
+    Java[Java/Kotlin]
+    Root --> Java
+
+        Collection[集合框架]
+        Java --> Collection
+        Stream[函数式编程]
+        Java --> Stream
+        Concurrent[并发编程]
+        Java --> Concurrent
+        Async[异步编程]
+        Java --> Async
+        JVM[JVM]
+        Java --> JVM
+```
+
 ---
 [![](https://visitcount.itsvg.in/api?id=xtyuns&icon=0&color=12)](https://visitcount.itsvg.in)
