@@ -32,6 +32,8 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
+<div style="display: none">
+  
 ```mermaid
 graph LR
     Root[Technologies]
@@ -90,6 +92,8 @@ graph LR
         ServiceMesh[Service Mesh]
         DS --> ServiceMesh
 ```
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xtyuns&icon=0&color=12)](https://visitcount.itsvg.in)
