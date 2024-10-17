@@ -1,11 +1,11 @@
 # Hi, I'm xtyuns
 
-### 📊 GitHub Stats:
+### 📊 My Contribution:
 <p>
   <a href="https://github.com/xtyuns?tab=repositories">
-    <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=xtyuns&show_icons=true&theme=monokai" />
+    <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=xtyuns&theme=monokai&show_icons=true&hide=stars" />
     <br/>
-    <img width=500 align="center" src="https://github-contributor-stats.vercel.app/api?username=xtyuns&combine_all_yearly_contributions=true&limit=5&theme=monokai" />
+    <img width=500 align="center" src="https://github-contributor-stats.vercel.app/api?username=xtyuns&theme=monokai&combine_all_yearly_contributions=true&limit=10" />
   </a>
 </p>
 
@@ -24,6 +24,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" /> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
